@@ -21,6 +21,7 @@ body{
 .container img{
     height: 350px;
     border-radius: 1rem;
+    min-height: 200px;
 }
 .container h1{
     font-family:"Outfit", sans-serif;
